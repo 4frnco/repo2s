@@ -23,7 +23,7 @@ Este repositorio reúne experimentos y aplicaciones relacionadas con **Inteligen
 > NO DAR CEGARRO A LOS AMEGOS
 
 
-> **Nota**: hola amego cegarro
+> **Amego**: hola amego cegarro
 
 
 
