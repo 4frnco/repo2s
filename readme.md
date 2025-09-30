@@ -19,6 +19,6 @@ Este repositorio reúne experimentos y aplicaciones relacionadas con **Inteligen
 
 ![Karkerkar Kurkur – Green Chair](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EHWsY4EQLxyrQmEtXt7MTjhZkLZjHEYvPUxMz_gIEEZw2TAH7QPABoPI4tHg8crjkUY&usqp=CAU)  
 
-> **Nota**: hola amego
+> **Nota**: hola amego cegarro
 
 
