@@ -15,9 +15,9 @@ Este repositorio reúne experimentos y aplicaciones relacionadas con **Inteligen
 - scikit‑learn  
 - Jupyter Notebooks  
 
-## Imagen representativa
+## Imagen representativa de la IA en el mundo 
 
-![Karkerkar Kurkur – Green Chair](https://cdn.salla.sa/OWZVa/c7bf5e61-74e5-4a19-8327-6f05fded6580-1000x1000-yJX8EoIxGzBXiBlEg7mJxawfAXZCrzFKdzeR7Ts5.jpg)  
+![Karkerkar Kurkur – Green Chair](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EHWsY4EQLxyrQmEtXt7MTjhZkLZjHEYvPUxMz_gIEEZw2TAH7QPABoPI4tHg8crjkUY&usqp=CAU)  
 
 > **Nota**: hola amego
 
