@@ -17,6 +17,8 @@ Este repositorio reúne experimentos y aplicaciones relacionadas con **Inteligen
 
 ## Imagen representativa de la IA en el mundo 
 
+ [la IA](https://es.wikipedia.org/wiki/Brainrot_italiano)
+
 ![Karkerkar Kurkur – Green Chair](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EHWsY4EQLxyrQmEtXt7MTjhZkLZjHEYvPUxMz_gIEEZw2TAH7QPABoPI4tHg8crjkUY&usqp=CAU)  
 
 | Área de la IA        | Descripción                     | Ejemplo                     |
@@ -26,6 +28,8 @@ Este repositorio reúne experimentos y aplicaciones relacionadas con **Inteligen
 | NLP :speech_balloon:           | Procesamiento de lenguaje       | Chatbots                  |
 | Visión por Computadora :camera: | Analiza imágenes/videos         | Reconocimiento facial     |
 | Robótica :robot:               | IA en robots                     | Drones autónomos          |
+
+
 
 
 
